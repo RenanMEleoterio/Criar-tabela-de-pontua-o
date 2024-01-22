@@ -1,0 +1,14 @@
+C:\Users\Renan\Desktop\Renan\Programação\CSharp\Testes_e_exercicios\Exercicios\CampeonatoDoCamoa\CalculoDePontosCamp\bin\Debug\net6.0\CalculoDePontosCamp.exe
+C:\Users\Renan\Desktop\Renan\Programação\CSharp\Testes_e_exercicios\Exercicios\CampeonatoDoCamoa\CalculoDePontosCamp\bin\Debug\net6.0\CalculoDePontosCamp.deps.json
+C:\Users\Renan\Desktop\Renan\Programação\CSharp\Testes_e_exercicios\Exercicios\CampeonatoDoCamoa\CalculoDePontosCamp\bin\Debug\net6.0\CalculoDePontosCamp.runtimeconfig.json
+C:\Users\Renan\Desktop\Renan\Programação\CSharp\Testes_e_exercicios\Exercicios\CampeonatoDoCamoa\CalculoDePontosCamp\bin\Debug\net6.0\CalculoDePontosCamp.dll
+C:\Users\Renan\Desktop\Renan\Programação\CSharp\Testes_e_exercicios\Exercicios\CampeonatoDoCamoa\CalculoDePontosCamp\bin\Debug\net6.0\CalculoDePontosCamp.pdb
+C:\Users\Renan\Desktop\Renan\Programação\CSharp\Testes_e_exercicios\Exercicios\CampeonatoDoCamoa\CalculoDePontosCamp\obj\Debug\net6.0\CalculoDePontosCamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\Desktop\Renan\Programação\CSharp\Testes_e_exercicios\Exercicios\CampeonatoDoCamoa\CalculoDePontosCamp\obj\Debug\net6.0\CalculoDePontosCamp.AssemblyInfoInputs.cache
+C:\Users\Renan\Desktop\Renan\Programação\CSharp\Testes_e_exercicios\Exercicios\CampeonatoDoCamoa\CalculoDePontosCamp\obj\Debug\net6.0\CalculoDePontosCamp.AssemblyInfo.cs
+C:\Users\Renan\Desktop\Renan\Programação\CSharp\Testes_e_exercicios\Exercicios\CampeonatoDoCamoa\CalculoDePontosCamp\obj\Debug\net6.0\CalculoDePontosCamp.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\Renan\Programação\CSharp\Testes_e_exercicios\Exercicios\CampeonatoDoCamoa\CalculoDePontosCamp\obj\Debug\net6.0\CalculoDePontosCamp.dll
+C:\Users\Renan\Desktop\Renan\Programação\CSharp\Testes_e_exercicios\Exercicios\CampeonatoDoCamoa\CalculoDePontosCamp\obj\Debug\net6.0\refint\CalculoDePontosCamp.dll
+C:\Users\Renan\Desktop\Renan\Programação\CSharp\Testes_e_exercicios\Exercicios\CampeonatoDoCamoa\CalculoDePontosCamp\obj\Debug\net6.0\CalculoDePontosCamp.pdb
+C:\Users\Renan\Desktop\Renan\Programação\CSharp\Testes_e_exercicios\Exercicios\CampeonatoDoCamoa\CalculoDePontosCamp\obj\Debug\net6.0\CalculoDePontosCamp.genruntimeconfig.cache
+C:\Users\Renan\Desktop\Renan\Programação\CSharp\Testes_e_exercicios\Exercicios\CampeonatoDoCamoa\CalculoDePontosCamp\obj\Debug\net6.0\ref\CalculoDePontosCamp.dll
